@@ -1,0 +1,13 @@
+D:\APIConsumer-Winforms\ConsumidorAPI\bin\Debug\ConsumidorAPI.exe.config
+D:\APIConsumer-Winforms\ConsumidorAPI\bin\Debug\ConsumidorAPI.exe
+D:\APIConsumer-Winforms\ConsumidorAPI\bin\Debug\ConsumidorAPI.pdb
+D:\APIConsumer-Winforms\ConsumidorAPI\bin\Debug\Newtonsoft.Json.dll
+D:\APIConsumer-Winforms\ConsumidorAPI\bin\Debug\Newtonsoft.Json.xml
+D:\APIConsumer-Winforms\ConsumidorAPI\obj\Debug\ConsumidorAPI.csproj.AssemblyReference.cache
+D:\APIConsumer-Winforms\ConsumidorAPI\obj\Debug\ConsumidorAPI.frmTest.resources
+D:\APIConsumer-Winforms\ConsumidorAPI\obj\Debug\ConsumidorAPI.Properties.Resources.resources
+D:\APIConsumer-Winforms\ConsumidorAPI\obj\Debug\ConsumidorAPI.csproj.GenerateResource.cache
+D:\APIConsumer-Winforms\ConsumidorAPI\obj\Debug\ConsumidorAPI.csproj.CoreCompileInputs.cache
+D:\APIConsumer-Winforms\ConsumidorAPI\obj\Debug\ConsumidorAPI.csproj.CopyComplete
+D:\APIConsumer-Winforms\ConsumidorAPI\obj\Debug\ConsumidorAPI.exe
+D:\APIConsumer-Winforms\ConsumidorAPI\obj\Debug\ConsumidorAPI.pdb
